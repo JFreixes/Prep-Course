@@ -1,0 +1,10 @@
+DEFINICIONES
+
+FOR: Nos sirve cuando nesecitamos repetir la misma accion 
+        hasta cuplir una condicion. Ej. imprimmir todos los 
+        nueros pares del 0 al 200.
+
+&&, || y !  Son operadores logicos, cumplen la misma funcion 
+            que los signos en matematica. && significa "y", es verdadero cuando 
+            las dos expresiones son verdadras. || es "o", es verdadero si una de las
+            dos expresiones es verdadera. ! simboliza negacion, niega lo que le siga.

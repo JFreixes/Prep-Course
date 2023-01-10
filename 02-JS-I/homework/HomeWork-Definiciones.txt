@@ -7,7 +7,7 @@ VARIABLES: Las variables son asignaciones de algun tipo de valor a algo. Pueden 
 STRINGS: Son bloques de texto que no nesesariamente tienen que ser palabras. Se mmarcan o usan poniendo cualquier valor entre commillas.
 
 FUNCIONES: Son elementos que resuelven algo. Los invocamos con la palabra FUNCTION dejamos un espacio y ponemos el nombre que le vamos a dar
-           luego entre parentesis van los valores con los que va a  trabajar. A estos los llamamos argumentos.
+           luego entre parentesis van los valores con los que va a  trabajagir. A estos los llamamos argumentos.
            Finalmente entre corchetes va el codigo o las operaciones que tiene que resolver. Con el comando RETURN le ponemos fin a una funcion
            para que devuelva un valor determinado luego de haber realizado la funcion.
 
