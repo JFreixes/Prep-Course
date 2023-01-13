@@ -1,0 +1,5 @@
+Definicion de Array
+
+Un Array es una lista que podemos crear, al igual que una variable,
+podemos tener acceso a ella por su nombre. Se le pueden sacar e insertar elementos.
+Hay que tener en cuenta que los elementos en ella se enumeran a partir del o.
