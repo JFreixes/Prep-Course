@@ -1,0 +1,28 @@
+conceptos
+// Objetos//
+Son una especie de contenedores que tienen en  su interior informacion. 
+Esa informacion esta ordenada por su nommbre.
+
+
+//Propiedades//
+Son los elentos que hay dentro de los objetos. 
+Van separadas por una coma. 
+Estan formadas por una clave (que es el nombre) separada por dos puntos (:) de un valor.
+Los valores que contienen pueden ser de cualquier tipo:  numeros, cadenas,
+ variables, funciones o valores booleanos.
+
+ //Metodos//
+ Los metodos son funciones que se usan dentro de un objeto. Es decir que a una funcion
+ dentro de un objeto se le llama metodo.
+
+ //Bucle for..in//
+ Es un tipo de bucle for. pero exclusivo para objetos.
+ Sirve para recorrer objetos.
+
+ //Notación de puntos vs notacion de corchetes//
+
+ Las dos son una forma de acceder a los valores que hay dentor de un objeto.
+ Notacion de corchetes: se escribe el nombre del objeto y entre corchetes el nommbre de
+ la clave entre comillas, como un string.
+ Notacion con punto es mas literal que la de corchetes. Solo busca dentro del objeto que
+ nombramos.
